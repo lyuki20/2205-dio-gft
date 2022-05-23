@@ -3,6 +3,9 @@ git status
 
 cd {tab} - navegar entre pastas
 
-git add . - adicionar no controle de versão
+_comandos para mandar para o Github_
+git add .
 git commit -m "comentário commit"
 git push origin main
+
+//
