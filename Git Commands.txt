@@ -8,4 +8,7 @@ git add .
 git commit -m "comentário commit"
 git push origin main
 
-//
+_comandos para alterar user_
+git config --global user.name "username"
+git config --global user.email "email"
+///
