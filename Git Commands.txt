@@ -1,3 +1,8 @@
 git clone https://github.com/lyuki20/2205-dio-gft.git
-git status 
+git status
+
 cd {tab} - navegar entre pastas
+
+git add . - adicionar no controle de versão
+git commit -m "comentário commit"
+git push origin main
